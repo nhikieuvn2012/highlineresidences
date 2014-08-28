@@ -1,0 +1,1 @@
+(function(n){n(function(){n(".arrow-left").click(function(n){n.preventDefault()}),n(".arrow-right").click(function(n){n.preventDefault()})})})(jQuery)

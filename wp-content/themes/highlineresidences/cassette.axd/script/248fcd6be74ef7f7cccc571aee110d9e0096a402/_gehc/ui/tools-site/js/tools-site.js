@@ -1,0 +1,1 @@
+(function(n,t){extend("gehc._prototypes.toolsSite.init",function(n){return new gehc._prototypes.toolsSite.view.navigationArray({el:n})}),t(function(){extend("gehc.navigation.toolsSite",gehc._prototypes.toolsSite.init(t(".gehc-site-tools")))})})(this,jQuery)

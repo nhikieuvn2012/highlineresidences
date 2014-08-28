@@ -1,0 +1,1 @@
+(function(n,t){extend("gehc._prototypes.breadcrumb.init",function(n){var i=new gehc._prototypes.breadcrumb.view.subNavigation({el:t("ul",n)});return new gehc._prototypes.breadcrumb.view.navigationArray({el:n,breadcrumbs:i})}),t(function(){var n;n=t(".gehc-breadcrumb"),extend("gehc.navigation.breadcrumb",gehc._prototypes.breadcrumb.init(n))})})(this,jQuery)

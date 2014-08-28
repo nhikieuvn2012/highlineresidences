@@ -1,0 +1,1 @@
+(function(n){n(function(){n(".filter-button").click(function(n){n.preventDefault()}),n(".filter-button").click(function(n){n.preventDefault()})})})(jQuery)

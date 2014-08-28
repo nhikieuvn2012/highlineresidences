@@ -1,0 +1,1 @@
+jQuery(function(){var n=Backbone.Router.extend({routes:{"tabs/:tabId":"showTab"},showTab:function(n){var t=jQuery('a[href$="#'+n+'"]');gehc.tabs.product.controller.gotoTab(t)}});window.router=new n,Backbone.history.start()})

@@ -1,0 +1,1 @@
+(function(){extend("gehc._prototypes.paginator.model.collectionItem",Backbone.Model.extend({}))})(this)

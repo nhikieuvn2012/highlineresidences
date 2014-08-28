@@ -1,0 +1,82 @@
+/* 
+ * For information about the @font-face syntax used here, see:
+ * http://www.fontspring.com/blog/the-new-bulletproof-font-face-syntax
+ * 
+ * Note: font-family names approximate Typekit convention.
+ * 
+ * Modified: 2011-07-21
+ */
+
+/* GE Inspira "Pitch" */
+@font-face {
+/*    font-family: 'geinspirapitch-n4';*/
+    font-family: 'geinspirapitch';
+    src: url('geinspirapitch-webfont.eot');
+    src: url('geinspirapitch-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('geinspirapitch-webfont.woff') format('woff'),
+         url('geinspirapitch-webfont.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+/*    font-family: 'geinspirapitch-i4';*/
+    font-family: 'geinspirapitch';
+    src: url('geinspirapitchitalic-webfont.eot');
+    src: url('geinspirapitchitalic-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('geinspirapitchitalic-webfont.woff') format('woff'),
+         url('geinspirapitchitalic-webfont.ttf') format('truetype');
+    font-style: italic;
+    font-weight: normal;
+}
+@font-face {
+/*    font-family: 'geinspirapitch-n7';*/
+    font-family: 'geinspirapitch';
+    src: url('geinspirapitchbold-webfont.eot');
+    src: url('geinspirapitchbold-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('geinspirapitchbold-webfont.woff') format('woff'),
+         url('geinspirapitchbold-webfont.ttf') format('truetype');
+    font-style: normal;
+    font-weight: bold;
+}
+
+/* GE Inspira */
+@font-face {
+/*    font-family: 'geinspira-n4';*/
+    font-family: 'geinspira';
+    src: url('geinsprg-webfont.eot');
+    src: url('geinsprg-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('geinsprg-webfont.woff') format('woff'),
+         url('geinsprg-webfont.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+/*    font-family: 'geinspira-i4';*/
+    font-family: 'geinspira';
+    src: url('geinspit-webfont.eot');
+    src: url('geinspit-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('geinspit-webfont.woff') format('woff'),
+         url('geinspit-webfont.ttf') format('truetype');
+    font-style: italic;
+    font-weight: normal;
+}
+@font-face {
+/*    font-family: 'geinspira-n7';*/
+    font-family: 'geinspira';
+    src: url('geinspbd-webfont.eot');
+    src: url('geinspbd-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('geinspbd-webfont.woff') format('woff'),
+         url('geinspbd-webfont.ttf') format('truetype');
+    font-style: normal;
+    font-weight: bold;
+}
+@font-face {
+/*    font-family: 'geinspira-i7';*/
+    font-family: 'geinspira';
+    src: url('geinspbi-webfont.eot');
+    src: url('geinspbi-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('geinspbi-webfont.woff') format('woff'),
+         url('geinspbi-webfont.ttf') format('truetype');
+    font-style: italic;
+    font-weight: bold;
+}

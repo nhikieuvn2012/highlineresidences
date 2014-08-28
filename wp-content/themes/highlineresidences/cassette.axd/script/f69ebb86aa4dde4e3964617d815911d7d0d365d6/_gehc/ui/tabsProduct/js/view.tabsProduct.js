@@ -1,0 +1,1 @@
+(function(){extend("gehc._prototypes.tabsProduct.view.controller",gehc._prototypes.tabs.view.controller.extend({})),extend("gehc._prototypes.tabsProduct.view.contentPanel",gehc._prototypes.tabs.view.contentPanel.extend({}))})(this)

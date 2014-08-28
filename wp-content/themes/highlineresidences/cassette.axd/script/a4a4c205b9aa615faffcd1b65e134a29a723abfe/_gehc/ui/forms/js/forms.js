@@ -1,0 +1,1 @@
+(function(n){n(function(){n("input:checkbox,input:radio,select").uniform(),n("select.required-empty").parent().addClass("required-empty")})})(jQuery)
